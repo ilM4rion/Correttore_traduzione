@@ -1,0 +1,19 @@
+Jean:Jin
+Hailan:Hairan
+Runkandel:Runcandel
+Underworld: "Legend Tribe"
+Luntia:Runtia
+Kwangran:Frenzy
+"Sword Garden":"Garden of Sword"
+"전戰":War
+"Myungwang Gunrim Sword":"Legend Tribe Sword Reign"
+Myungwang:"Legend Tribe"
+Plutonian:"Legend Tribe"
+"Myungwang Sword Invocation Technique":"Legend Tribe Swordmanship Battle God Technique"
+"second decision of the spirit's five":"second form of Battle God Technique"
+"of the 12th generation":"12th flagbearer"
+"12th generation":"12th flagbearer"
+"Sigmund and madness":"Sigmund and Frenzy"
+"become the master":"become the patriarch"
+"Calon":"Kalon"
+"Bancella":"Vankella"
