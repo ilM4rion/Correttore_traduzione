@@ -1,6 +1,14 @@
 Jean:Jin
 Hailan:Hairan
+Hiran:Hairan
+Hyran:Hairan
 Runkandel:Runcandel
+Lunarkand:Runcandel
+Runecandel:Runcandel
+Looncandel:Runcandel
+Runkandel:Runcandel
+Murkan:Murakan
+Murka:Murakan
 Underworld: "Legend Tribe"
 Luntia:Runtia
 Kwangran:Frenzy
@@ -12,8 +20,67 @@ Plutonian:"Legend Tribe"
 "Myungwang Sword Invocation Technique":"Legend Tribe Swordmanship Battle God Technique"
 "second decision of the spirit's five":"second form of Battle God Technique"
 "of the 12th generation":"12th flagbearer"
-"12th generation":"12th flagbearer"
+"th generation":"th flagbearer"
 "Sigmund and madness":"Sigmund and Frenzy"
 "become the master":"become the patriarch"
 "Calon":"Kalon"
 "Bancella":"Vankella"
+"Bankella":"Vankella"
+"the King's Office":"the Queen's Office
+Siron:Chiron
+"Dragon Fetus":youngest
+Gifel:Zipple
+Ziple:Zipple
+Zipfe:Zipple
+Zipfel:Zipple
+Zefl:Zipple
+Kelliac:Kelliark
+Keliak:Kelliark
+Kellick:Kelliark
+Cadun:Kadun
+Jed:Zed
+Geomhwang:"Sword Emperor"
+"Vera Din":Veradin
+Beradin:Veradin
+Ciris:Syris
+Begonia:"The Hidden Palace"
+Jett:Jet
+Quicantel:Quikantel
+Enia:Enya
+"empire's unofficial bounty hunters":"empire's unofficial wanted people"
+Marjiella:Margiella
+Eveliano:Ivelliano
+Bubbar:Bubare
+Bubar:Bubare
+Vishukel:Vishkel
+Kinzel:Kinzello
+Kinsello:Kinzello
+"Twelfth Generation":"Twelfth Flagbearer"
+Myeongin:"Living Golem"
+Kojeck:Kozek
+Cho:"Cold Joe"
+"Phantom Brigade":"Ghost Mercenary"
+"Ghost Corps":"Ghost Mercenary"
+Dephus:Diphus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
