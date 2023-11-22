@@ -1,6 +1,6 @@
 import os
 import docx2txt
-from docx import Document
+from docx import Document 
 
 def convert_docx_in_txt(docx_path, txt_path):
     try:
