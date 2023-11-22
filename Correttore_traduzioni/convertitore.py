@@ -1,27 +1,46 @@
 import os
 import docx2txt
+from docx import Document
 
-def converti_docx_in_txt(cartella_input, cartella_output):
-    # Verifica se la cartella di output esiste, altrimenti creala
+def converti_docx_in_txt(docx_path, txt_path):
+    try:
+        # Legge il file .docx
+        doc = Document(docx_path)
+        
+        # Estrae il testo dal documento
+        testo = ""
+        for paragrafo in doc.paragraphs:
+            testo += paragrafo.text + '\n'
+        
+        # Scrivi il testo estratto in un file .txt
+        with open(txt_path, 'w', encoding='utf-8') as file_txt:
+            file_txt.write(testo)
+    except Exception as e:
+        print(f"Errore nella conversione di {docx_path}: {e}")
+
+def converti_tutti_docx_in_txt(cartella_input, cartella_output):
+
     if not os.path.exists(cartella_output):
         os.makedirs(cartella_output)
 
-    # Elabora ogni file .docx nella cartella di input
-    for filename in os.listdir(cartella_input):
-        if filename.endswith(".docx"):
-            input_path = os.path.join(cartella_input, filename)
-            output_filename = os.path.splitext(filename)[0] + ".txt"
-            output_path = os.path.join(cartella_output, output_filename)
+    # Scorre tutti i file nella cartella
+    for file_name in os.listdir(cartella_input):
+        if file_name.endswith(".docx"):
+
+            """
+            os.path.join(directory, pathx) permette al programma di andare nella directory indicata
+            ed unire il pathx indicato (possono essere più di uno).
+            quindi in questo caso mette il file.txt
+            """
+            docx_path = os.path.join(cartella_input, file_name)
+            txt_name = file_name.replace(".docx", ".txt")
+            txt_path = os.path.join(cartella_output, txt_name)
 
             # Converte il file .docx in .txt
-            try:
-                testo = docx2txt.process(input_path, output_path)
-                print(f"File convertito: {output_filename}")
-            except Exception as e:
-                print(f"Errore durante la conversione di {filename}: {e}")
+            converti_docx_in_txt(docx_path, txt_path)
 
 if __name__ == "__main__":
-    cartella_input = "/percorso/della/cartella/input"
-    cartella_output = "/percorso/della/cartella/output"
-
-    converti_docx_in_txt(cartella_input, cartella_output)
+    
+    cartella_input = "Inserire percorso directory input"
+    cartella_output = "Inserire percorso directory output"
+    converti_tutti_docx_in_txt(cartella_input, cartella_output)
