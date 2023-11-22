@@ -4,3 +4,6 @@
 - [ ] Translate notes from Italian to English
 - [ ] Keep updating the "dictionary"
 - [X] Insulting everything bc code doesn't work 
+
+
+# Guide for installing: noob version
