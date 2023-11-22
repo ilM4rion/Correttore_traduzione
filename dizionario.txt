@@ -62,25 +62,3 @@ Cho:"Cold Joe"
 "Phantom Brigade":"Ghost Mercenary"
 "Ghost Corps":"Ghost Mercenary"
 Dephus:Diphus
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
