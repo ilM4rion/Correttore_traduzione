@@ -1,23 +1,32 @@
 Jean:Jin
+Jindo:Jin
+"Spiritual Energy":"Shadow Energy"
+"Brada Mante":Bradamante
+Hyeran:Hairan
 Hailan:Hairan
 Hiran:Hairan
 Hyran:Hairan
+Highlan:Hairan
+Hyiran:Hairan
 Runkandel:Runcandel
 Lunarkand:Runcandel
 Runecandel:Runcandel
 Looncandel:Runcandel
 Runkandel:Runcandel
+"Lun Kandel":Runcandel
+"Run Kandel":Runcandel
 Murkan:Murakan
 Murka:Murakan
-Underworld: "Legend Tribe"
+Underworld: "Legends Tribe"
+"Legend Tribe King":"Legend Tribe"
 Luntia:Runtia
 Kwangran:Frenzy
 "Sword Garden":"Garden of Sword"
 "전戰":War
-"Myungwang Gunrim Sword":"Legend Tribe Sword Reign"
-Myungwang:"Legend Tribe"
-Plutonian:"Legend Tribe"
-"Myungwang Sword Invocation Technique":"Legend Tribe Swordmanship Battle God Technique"
+"Myungwang Gunrim Sword":"Legends Tribe Sword Reign"
+Myungwang:"Legends Tribe"
+Plutonian:"Legends Tribe"
+"Myungwang Sword Invocation Technique":"Legends Tribe Swordmanship Battle God Technique"
 "second decision of the spirit's five":"second form of Battle God Technique"
 "of the 12th generation":"12th flagbearer"
 "th generation":"th flagbearer"
@@ -28,17 +37,31 @@ Plutonian:"Legend Tribe"
 "Bankella":"Vankella"
 "the King's Office":"the Queen's Office
 Siron:Chiron
+Syrion:Chiron
+Shiron:Chiron
+Sirron:Chiron
 "Dragon Fetus":youngest
 Gifel:Zipple
 Ziple:Zipple
 Zipfe:Zipple
 Zipfel:Zipple
 Zefl:Zipple
+Zipel:Zipple
+Zippelel:Zipple
+Zifels:Zipple
+Zipl:Zipple
+Gipfel:Zipple
+Ziephel:Zipple
+Jiple:Zipple
 Kelliac:Kelliark
 Keliak:Kelliark
 Kellick:Kelliark
 Cadun:Kadun
+Cojek:Kozec
+"Phantom Group":Spectres
+Spirits:Spectres
 Jed:Zed
+Gilli:Gilly
 Geomhwang:"Sword Emperor"
 "Vera Din":Veradin
 Beradin:Veradin
@@ -49,16 +72,32 @@ Quicantel:Quikantel
 Enia:Enya
 "empire's unofficial bounty hunters":"empire's unofficial wanted people"
 Marjiella:Margiella
+Marjiela:Margiella
 Eveliano:Ivelliano
+Ebrilianog:Ivelliano
 Bubbar:Bubare
 Bubar:Bubare
+Bubaree:Bubare
 Vishukel:Vishkel
+Bischel:Vishkel
 Kinzel:Kinzello
 Kinsello:Kinzello
+Kinjelo:Kinzello
+Kizelloo:Kinzello
 "Twelfth Generation":"Twelfth Flagbearer"
 Myeongin:"Living Golem"
 Kojeck:Kozek
 Cho:"Cold Joe"
+Jo:Joe
+"Cold Jo": "Cold Joe"
+"Cold-hearted Jo":"Cold Joe"
+"Baekrang Tribe":"White Wolves Tribe"
+Baekrang:"White Wolves"
 "Phantom Brigade":"Ghost Mercenary"
 "Ghost Corps":"Ghost Mercenary"
+Lata:Rata
 Dephus:Diphus
+Bemonte:Vermont
+Bimonte:Vermont
+Bivment:Vermont
+Bement:Vermont
